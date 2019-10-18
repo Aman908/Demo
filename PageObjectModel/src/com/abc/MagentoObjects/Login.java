@@ -17,7 +17,7 @@ public class Login
 	
 	public void typeEmail()
 	{
-		driver.findElement(email).sendKeys("mzaidurrahman@gmail.com");
+		driver.findElement(email).sendKeys("aman.kumar130995@gmail.com");
 	}
 	
 	public void typePassword()
